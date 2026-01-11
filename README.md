@@ -7,12 +7,35 @@
 
 I’m a junior software developer with a strong interest in building practical, user-focused applications. I enjoy working across full-stack and mobile development, turning ideas into clean, functional solutions. I’m continuously learning and improving my skills through hands-on projects and collaboration.
 
-- 🔭 **I’m currently working on:** Projects in React, React Native, and full-stack development
-- 🌱 **I’m currently learning:** Mobile perfomance optimization
-- 👯 **I’m looking to collaborate on:** Open-source projects
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Boikanyomalepe902@gmail.com
-- ⚡ **Fun fact:** I enjoy turning ideas into working applications and learning something new with every project.
+## 🔭 Currently Working On
+- Projects in **React**, **React Native**, and **full-stack development**
+
+## 🌱 Currently Learning
+- Advanced frontend patterns  
+- Backend APIs and system design  
+- Mobile performance optimization  
+
+## 🧠 What I Value
+- Clean and maintainable code
+- User-focused design
+- Continuous learning
+- Collaboration and feedback
+
+## 👯 Looking to Collaborate On
+- Open-source projects  
+- Mobile or web applications    
+
+## 💬 Ask Me About
+- React & React Native  
+- Full-stack development  
+- Building projects 
+
+## 📫 How to Reach Me
+- 📧 Email: **boikanyomalepe902@gmail.com**
+
+## ⚡ Fun Fact
+I enjoy turning ideas into working applications and learning something new with every project.
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Beekay) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Beekay_mv) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/BoikanyoMalepe) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Beekay_mv) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@beekay_sa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:boikanyomalepe902@gmail.com) 
 
@@ -28,6 +51,10 @@ I’m a junior software developer with a strong interest in building practical, 
 ![](https://github-readme-stats.vercel.app/api?username=BeeMelvin&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=BeeMelvin&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BeeMelvin&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+
+
+
 
 
 
