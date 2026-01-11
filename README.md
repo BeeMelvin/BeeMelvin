@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Boikanyo Malepe
 **Junior Software Engineer || Full-Stack & Mobile Developemnt**
 
-**📍Pretoria, South Africa**
+**📍Pretoria, South Africa**  
 **📧 Email: boikanyomalepe902@gmail.com**
 
 ## 👨‍💻 About Me
