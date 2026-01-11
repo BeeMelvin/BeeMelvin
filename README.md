@@ -31,9 +31,6 @@ I’m a junior software developer with a strong interest in building practical, 
 - Full-stack development  
 - Building projects 
 
-## 📫 How to Reach Me
-- 📧 Email: **boikanyomalepe902@gmail.com**
-
 ## ⚡ Fun Fact
 I enjoy turning ideas into working applications and learning something new with every project.
 
